@@ -1,0 +1,10 @@
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\bin\Debug\微信Hook.exe.config
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\bin\Debug\微信Hook.exe
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\bin\Debug\微信Hook.pdb
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\obj\Debug\微信Hook.csprojAssemblyReference.cache
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\obj\Debug\微信Hook.Properties.Resources.resources
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\obj\Debug\微信Hook.csproj.GenerateResource.cache
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\obj\Debug\微信Hook.csproj.CoreCompileInputs.cache
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\obj\Debug\微信Hook.exe
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\obj\Debug\微信Hook.pdb
+D:\桌面文件\c#\Solution1\微信Hook\微信Hook\obj\Debug\微信Hook.Form1.resources
