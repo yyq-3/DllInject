@@ -15,7 +15,7 @@ namespace 微信Hook
     public partial class Form1 : Form
     {
         private static string WECHAT_NAME = "WeChat";
-        private static string DLL_PATH = @"E:\MyWXDll.dll";
+        private static string DLL_PATH = @"E:\dbg\MyWXDll.dll";
         public Form1()
         {
             InitializeComponent();
@@ -49,7 +49,9 @@ namespace 微信Hook
             {
                 if (process.ProcessName.Equals(WECHAT_NAME))
                 {
-                    this.textBox1.Text = process.MainModule.FileName.ToString();
+                    var fileName = process.MainModule.FileName;
+                    this.textBox1.Text = fileName.Substring(0, fileName.LastIndexOf('\\')) + @"\MyWXDll.dll";
+                    DLL_PATH = this.textBox1.Text;
                     return process;
                 }
             }
